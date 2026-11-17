@@ -752,8 +752,70 @@ zoom: 0.9
 
 <figure>
 <figcaption style="color:#b3b3b3ff; font-size: 11px; position: relative; top: 10px; left: 350px;">Источник: Гай Дойчер, Сквозь зеркало языка. Почему на других языках мир выглядит иначе (2010)
-  </figcaption>
+</figcaption>
 </figure>
+
+---
+
+# Цвет и культура
+
+<div class="grid grid-cols-[5fr_4fr] gap-20">
+<div>
+<figure>
+  <img src="/English-Berinmo.png" style="width: 400px !important;">
+</figure>
+</div>
+<div v-click at="1">
+
+## Nol ~ свежий
+<br>
+
+## Wor ~ жухлый
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<figcaption style="color:#b3b3b3ff; font-size: 11px;">Источник: J. Davidoff, I. Davies, D. Roberson. Colour categories in a stone-age tribe. Nature, 398(6724) (1999)
+</figcaption>
+</div>
+</div>
+
+---
+
+# Цвет и культура
+
+<div class="grid grid-cols-[5fr_4fr] gap-10">
+<div>
+<figure>
+  <img src="/Regier_Kemp_Kay_1.png" style="width: 400px !important;">
+</figure>
+
+<br>
+<div v-click at="1">
+<figure>
+  <img src="/Regier_Kemp_Kay_2.png" style="width: 400px !important;">
+</figure>
+</div>
+</div>
+<div v-click at="2">
+
+<figure>
+  <img src="/Regier_Kemp_Kay_3.png" style="width: 500px !important;">
+</figure>
+
+<br>
+
+#### Системы значений слов в разных языках устроены таким образом, чтобы обеспечивать эффективность коммуникации
+<figcaption style="color:#b3b3b3ff; font-size: 11px;">Источник: T. Regier, C. Kemp, P. Kay. Word Meanings across Languages Support Efficient Communication (2015)
+</figcaption>
+</div>
+</div>
 
 ---
 
